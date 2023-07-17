@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @BadAross
-- 👀 I’m interested in DataBase
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Gojev Artur
+- 👀 I’m interested in DataBase and BackAnd development
+- 🌱 I’m currently learning C# and SQL
+- 💞️ I'm looking for a job
 
 <!---
 BadAross/BadAross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
