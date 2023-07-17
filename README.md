@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gojev Artur
-- 👀 I’m interested in DataBase and BackAnd development
+- 👀 I’m interested in DataBase and Backend development
 - 🌱 I’m currently learning C# and SQL
 - 💞️ I'm looking for a job
 
